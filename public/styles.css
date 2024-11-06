@@ -1,0 +1,10 @@
+.heading {
+  color: red;
+}
+
+.food-img {
+  height: 100px;
+  width: 100px;
+  display: inline-block; /* Correct display type for images */
+  margin: 10px; /* Optional spacing between images */
+}
