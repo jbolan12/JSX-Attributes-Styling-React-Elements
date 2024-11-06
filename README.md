@@ -19,7 +19,7 @@ This project demonstrates how to display a variety of images using React. It inc
 
 1. **Clone the repository** (or download the project):
    ```bash
-   git clone https://github.com/your-username/image-display.git
+   git clone https://jbolan12.github.io/JSX-Attributes-Styling-React-Elements/
    cd image-display
 
 
